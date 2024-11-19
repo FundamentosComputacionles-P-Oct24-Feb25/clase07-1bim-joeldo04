@@ -1,0 +1,26 @@
+// Generar un programa que presente en pantalla
+// el valor de la variable suma.
+
+
+1. Inicio
+2. valor_entrada, i[0, n]
+3. suma, i[0, n]
+4. salida, x(10)[{a-z}]
+5. suma <-- 0
+6. Haga_Hasta
+7.     Escribir "Ingrese un número por teclado"
+8.     Leer valor_entrada
+9.     suma <-- suma + valor_entrada
+10.    Escribir "Escriba la letra c para continuar en el proceso"
+11.    Leer salida
+12. Fin Haga_Hasta (salida=="c")
+13. Escribir suma
+14. Fin
+
+// teclado
+4
+no
+7
+si
+// pantalla
+11

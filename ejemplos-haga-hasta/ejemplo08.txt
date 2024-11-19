@@ -1,0 +1,20 @@
+// Generar un programa que presente en pantalla
+// el valor de la variable suma.
+
+
+1. Inicio
+2. numero, i[0, n]
+3. valor_entrada, i[0, n]
+4. suma, i[0, n]
+5. numero <-- 1
+6. suma <-- 0
+7. Haga_Hasta
+8.    Escribir "Ingrese un número por teclado"
+9.    Leer valor_entrada
+10.   Si valor_entrada MOD 2 == 0 entonces
+11.       suma <-- suma + valor_entrada
+12.   Fin Si
+13.   numero <-- numero +1
+14. Fin Haga_Hasta (numero <= 3)
+15. Escribir suma
+16. Fin
